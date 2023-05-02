@@ -154,20 +154,19 @@ int __stdcall fibunacci(int t0, int t1) {
 	int tn;
 
 	_asm {
-		
-		mov eax, t0; cargar el primer término en eax
-		mov ebx, t1; cargar el segundo término en ebx
-
-		mov ecx, 8; establecer el número de iteraciones
+		mov eax, t0 ;Cargar el primer término en eax
+		mov ebx, t1 ;Cargar el segundo término en ebx
+		mov ecx, 8 ;Establecer el número de iteraciones
 
 		ciclo :
-			add eax, ebx; sumar los dos términos previos
-			mov tn, eax; guardar el resultado en tn
-			mov eax, ebx; actualizar el primer término
-			mov ebx, tn; actualizar el segundo término
+		add eax, ebx ;Sumar los dos términos previos
+			mov tn, eax ;Guardar el resultado en tn
+			mov eax, ebx ;Actualizar el primer término
+			mov ebx, tn ;Actualizar el segundo término
 			loop ciclo
 	}
-	
 	return tn;
 }
+
+
 #pragma endregion
