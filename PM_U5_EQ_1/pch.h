@@ -149,6 +149,25 @@ int __stdcall promUsuario(char* cadRes, char* nombre, int cal1, int cal2, int ca
 	return c;
 }
 
+int __stdcall fibunacci(int t0, int t1) {
 
+	int tn;
 
+	_asm {
+		
+		mov eax, t0; cargar el primer término en eax
+		mov ebx, t1; cargar el segundo término en ebx
+
+		mov ecx, 8; establecer el número de iteraciones
+
+		ciclo :
+			add eax, ebx; sumar los dos términos previos
+			mov tn, eax; guardar el resultado en tn
+			mov eax, ebx; actualizar el primer término
+			mov ebx, tn; actualizar el segundo término
+			loop ciclo
+	}
+	
+	return tn;
+}
 #pragma endregion

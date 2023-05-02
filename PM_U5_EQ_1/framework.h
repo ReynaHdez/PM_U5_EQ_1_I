@@ -13,3 +13,5 @@ extern "C" __declspec(dllexport) int __stdcall escribir_cadena(char* str, int le
 
 extern "C" __declspec(dllexport) int __stdcall promedioDeUsuario(char* nombre, int cal1, int cal2, int cal3);
 extern "C" __declspec(dllexport) int __stdcall promUsuario(char* cadRes, char* nombre, int cal1, int cal2, int cal3);
+
+extern "C" __declspec(dllexport) int __stdcall fibunacci(int t0, int t1);
