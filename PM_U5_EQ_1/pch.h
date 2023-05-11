@@ -169,8 +169,8 @@ int __stdcall fibunacci(int t0, int t1) {
 }
 
 int __stdcall areatriangulo(int base, int altura) {
-	int resultmult;
-	int resultado;
+	//int resultmult;
+	//int resultado;
 
 	_asm{
 		mov eax, base
@@ -248,20 +248,61 @@ int __stdcall addNum2Cadena(char* cadRes, int indice, int numero) {
 			div = div * 10;
 		}
 
-		while (numero > 0) { //obtener el digito mas a la izquierda ... 
+		while (numero > 10) { //obtener el digito mas a la izquierda ... 
 			int t = numero / div;
 			cadRes[indice] = t + 48;
 			indice++;
 			numero = numero % div;
 			div = div / 10;
 		}
-
+		cadRes[indice] = numero + 48;
+		indice++;
 	}
 	else { //con  = 0
 		cadRes[indice] = numero + 48;
 		indice++;
 	}
 	return cont + 1;
+}
+
+int __stdcall comparaNumeros(char* cadRes, char* nombre, int numero1, int numero2, int totdigitos) {
+	
+	//compracion digito a digito...
+	totdigitos = -1;
+	int divisor = 0;
+	_asm {
+		//numero 1 se queda en memoria
+		mov ebx, numero2
+
+		mov ecx, totdigitos
+
+		cmp totdigitos, 1
+		jnle continuar
+
+		mov ecx, 0
+		mov ebx, 10
+		mov eax, 10
+		ciclo:
+			mul ebx
+			inc ecx
+			cmp ecx, totdigitos
+			jl ciclo
+		
+		continuar:
+			mov divisor, eax
+	}
+	return divisor;
+	//velocidad += pDecimal / tiempo;
+	int c = 0; //inicio de la cadena resultado     
+	c += addCadena2Cadena(cadRes, c, nombre);
+
+	const char* aux = " tiene una velociad de: "; //debe ser menor que len_buffer
+	c += addCadena2Cadena(cadRes, c, aux);
+
+	//Params: cadena en la que se concatenara, posicion de inicio del numero, numero a concatenar 
+	//c += addNum2Cadena(cadRes, c, velocidad);
+	//retorna la cantidad de caracteres en la palabra ...
+	return c;
 }
 
 

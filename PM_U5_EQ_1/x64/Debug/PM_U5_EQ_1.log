@@ -1,0 +1,110 @@
+﻿  pch.cpp
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(17,2): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(18,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(18,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(18,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(19,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(19,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(19,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(19,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(20,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(20,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(20,7): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(20,7): error C2065: 'ebx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(21,3): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(21,3): error C2065: 'add': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(21,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(21,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(21,12): error C2065: 'ebx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(23,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(23,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(23,7): error C2146: error de sintaxis: falta ';' delante del identificador 'resultado'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(23,18): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(24,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(31,2): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(32,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(32,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(32,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(33,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(33,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(33,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(33,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(34,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(34,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(34,7): error C2146: error de sintaxis: falta ';' delante del identificador 'ebx'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(34,7): error C2065: 'ebx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(35,3): error C2146: error de sintaxis: falta ';' delante del identificador 'sub'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(35,3): error C2065: 'sub': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(35,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(35,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(35,12): error C2065: 'ebx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(37,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(37,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(37,7): error C2146: error de sintaxis: falta ';' delante del identificador 'resultado2'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(37,19): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(38,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(45,2): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(46,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(46,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(46,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(47,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mul'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(47,3): error C2065: 'mul': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(47,7): error C2146: error de sintaxis: falta ';' delante del identificador 'b'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(49,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(49,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(49,7): error C2146: error de sintaxis: falta ';' delante del identificador 'resultado3'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(49,19): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(50,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(56,23): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(65,23): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(79,2): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(80,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(80,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(80,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(81,3): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(81,3): error C2065: 'add': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(81,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(81,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(82,3): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(82,3): error C2065: 'add': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(82,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(82,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(83,3): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(83,3): error C2065: 'add': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(83,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(83,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(85,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(85,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(85,7): error C2146: error de sintaxis: falta ';' delante del identificador 'edx'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(85,7): error C2065: 'edx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(86,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(86,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(86,7): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(86,7): error C2065: 'ecx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(87,3): error C2146: error de sintaxis: falta ';' delante del identificador 'div'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(87,3): error C2065: 'div': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(87,7): error C2146: error de sintaxis: falta ';' delante del identificador 'ecx'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(87,7): error C2065: 'ecx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(89,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(89,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(89,7): error C2146: error de sintaxis: falta ';' delante del identificador 'pDecimal'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(89,17): error C2065: 'edx': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(90,3): error C2146: error de sintaxis: falta ';' delante del identificador 'mov'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(90,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(90,7): error C2146: error de sintaxis: falta ';' delante del identificador 'prom'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(90,13): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(91,2): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(100,2): error C4235: se ha utilizado una extensión no estándar: la palabra clave '__asm' no se admite en esta arquitectura
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(101,3): error C2065: 'mov': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(101,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(101,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(102,3): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(102,3): error C2065: 'add': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(102,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(102,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(103,3): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(103,3): error C2065: 'add': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(103,7): error C2146: error de sintaxis: falta ';' delante del identificador 'eax'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(103,7): error C2065: 'eax': identificador no declarado
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(104,3): error C2146: error de sintaxis: falta ';' delante del identificador 'add'
+C:\Users\Reyna\source\repos\PM_U5_EQ_1\PM_U5_EQ_1\pch.h(104,7): fatal  error C1003: el recuento de errores supera 100; se detiene la compilación

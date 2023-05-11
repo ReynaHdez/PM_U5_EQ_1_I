@@ -17,5 +17,7 @@ extern "C" __declspec(dllexport) int __stdcall promUsuario(char* cadRes, char* n
 extern "C" __declspec(dllexport) int __stdcall fibunacci(int t0, int t1);
 
 extern "C" __declspec(dllexport) int __stdcall velocidad(char* cadRes, char* nombre, int distancia, int tiempo);
-int __stdcall addNum2Cadena(char* cadRes, int indice, int numero);
-int __stdcall addCadena2Cadena(char* cadRes, int indice, const char* cadena);
+extern "C" __declspec(dllexport) int __stdcall addNum2Cadena(char* cadRes, int indice, int numero);
+extern "C" __declspec(dllexport) int __stdcall addCadena2Cadena(char* cadRes, int indice, const char* cadena);
+
+extern "C" __declspec(dllexport) int __stdcall comparaNumeros(char* cadRes, char* nombre, int numero1, int numero2, int totdigitos);
